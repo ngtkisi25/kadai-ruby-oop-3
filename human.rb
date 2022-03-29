@@ -1,3 +1,4 @@
+require './animal'
 require './thinkable'
 
 class Human < Animal
